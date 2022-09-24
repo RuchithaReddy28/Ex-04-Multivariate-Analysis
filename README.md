@@ -78,7 +78,7 @@ sbn.barplot(df['Postal Code'],df['Ship Mode'],hue=df['Region'])
 df.corr()
 sbn.heatmap(df.corr(),annot=True)
 ```
-# OUPUT
+# OUTPUT
 ## EDA - SuperStore.csv
 
 ## Displaying information about Dataset
